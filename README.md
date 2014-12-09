@@ -1,10 +1,5 @@
 # JASafeCast
 
-[![CI Status](http://img.shields.io/travis/Jeff Ames/JASafeCast.svg?style=flat)](https://travis-ci.org/Jeff Ames/JASafeCast)
-[![Version](https://img.shields.io/cocoapods/v/JASafeCast.svg?style=flat)](http://cocoadocs.org/docsets/JASafeCast)
-[![License](https://img.shields.io/cocoapods/l/JASafeCast.svg?style=flat)](http://cocoadocs.org/docsets/JASafeCast)
-[![Platform](https://img.shields.io/cocoapods/p/JASafeCast.svg?style=flat)](http://cocoadocs.org/docsets/JASafeCast)
-
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
