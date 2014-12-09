@@ -17,11 +17,11 @@ Pod::Spec.new do |s|
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/JASafeCast"
+  s.homepage         = "https://github.com/jma256/JASafeCast"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Jeff Ames" => "jeffreymames@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/JASafeCast.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/jma256/JASafeCast.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
