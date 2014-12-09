@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "JASafeCast"
-  s.version          = "0.1.2"
+  s.version          = "0.1.3"
   s.summary          = "A short description of JASafeCast."
   s.description      = <<-DESC
                        An optional longer description of JASafeCast
@@ -27,8 +27,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
-  s.source_files = 'Pod/Classes'
-  s.resources = 'Pod/Assets/*.png'
+  s.source_files = 'JASafeCast/*.{h,m}'
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
